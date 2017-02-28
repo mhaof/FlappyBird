@@ -4,13 +4,16 @@
 
 A clone Flappy bird app created using SpriteKit and GameplayKit
 
+Run on iOS 10.2
+
 ## Detail
 As I tried to rebuild a similar famous game, the implementing steps as following:
 
-- [ ] User can search for favorite artists
-- [ ] App displays genre, number of followers, top tracks with album cover from searched artist 
-- [ ] Audio play/pause function
-- [ ]
+- [ ] Controlling the bird
+- [ ] Spawning pipes
+- [ ] Detecting collision
+- [ ] Scoring and Play Again function
+
 ## Quick Look
 
 
@@ -19,8 +22,8 @@ As I tried to rebuild a similar famous game, the implementing steps as following
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Study Note
-- [X] react-bootstrap
-- [X] React libraries and ES6 syntax
-- [X] Web requests and APIs in React
-- [X] Flexbox - a form of styling often used in React applications that allows components and elements to expand based on portions of the screen. 
-- [X] Audio - native Javascript object
+
+- [X] Work with SpriteKit and GameplayKit
+- [X] Create objects animation
+- [X] SKPhysicsContactDelegate
+
